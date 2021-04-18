@@ -1,0 +1,12 @@
+Kolejność otwierania w scilabie :
+definicje_funkcji->mnkw->Polindromy->CNMKG->Zaleznosc_bladu_od_wezlow
+
+Jak to dziala:
+
+np:
+a=CNMGL(n,fn) //n-liczba węzłów  fn- f1 dla funkcji x^3+x^6, f2 dla drugiej funkcji
+wpisanie 'xr' wyświetli pierwiastki
+'W' wyświetli wartości węzłów
+'p' n-ty wielomian Legandreg`o
+
+otwarcie 'Zaleznosc_bladu_od_wezlow' powoduje stworzeniu wykresu zależności
